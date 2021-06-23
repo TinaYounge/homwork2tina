@@ -1,0 +1,204 @@
+.div1 {
+  width: 20vw;
+  height: 20vh;
+  background-color: grey;
+  /* color: white; */
+  margin: 0%;
+  border-radius: 5% 5% 0% 0%;
+  margin: 2vh;
+}
+section {
+  margin: 2vh;
+}
+
+#example {
+  display: flex;
+  justify-content: space-between;
+}
+.div2 {
+  background-color: white;
+  width: 20vw;
+  height: 19vh;
+  z-index: 100;
+  position: relative;
+  top: 1vh;
+  border: 0.001px solid bisque;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.div3 {
+  width: 1vw;
+  height: 1vw;
+  /* color: white; */
+  border-radius: 50%;
+  border: 2px solid black;
+  z-index: 100;
+  position: relative;
+  margin: 1%;
+}
+#circle {
+  display: flex;
+  flex-direction: row;
+}
+.red {
+  background-color: red;
+}
+.green {
+  background-color: green;
+}
+.yellow {
+  background-color: yellow;
+}
+.div4 {
+  background-color: black;
+  width: 2vw;
+  height: 2vw;
+  margin: 1%;
+  color: white;
+  font-size: 2%;
+}
+#right {
+  display: flex;
+}
+.div5 {
+  background-color: white;
+  width: 20vw;
+  height: 19vh;
+  z-index: 100;
+  position: relative;
+  top: 1vh;
+  border: 0.001px solid bisque;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.center {
+  align-self: center;
+}
+.phai {
+  align-self: flex-end;
+}
+.big {
+  background-color: teal;
+  width: 4vw;
+  height: 4vw;
+}
+.div6 {
+  background-color: white;
+  width: 20vw;
+  height: 19vh;
+  z-index: 100;
+  position: relative;
+  top: 1vh;
+  border: 0.001px solid bisque;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.big {
+  display: flex;
+  position: relative;
+  justify-content: center;
+  align-items: center;
+}
+
+.div7 {
+  background-color: white;
+  width: 20vw;
+  height: 19vh;
+  z-index: 100;
+  position: relative;
+  top: 1vh;
+  border: 0.001px solid bisque;
+  display: flex;
+  /* justify-content: center; */
+  /* align-items: center; */
+}
+
+.pink {
+  background-color: pink;
+  width: 4vw;
+  height: 4vw;
+}
+.black {
+  width: 4vw;
+  height: 4vw;
+  position: relative;
+  top: 50%;
+  left: 50%;
+}
+.huge {
+  display: flex;
+  position: relative;
+  width: 8vw;
+  height: 4vw;
+  background-color: yellow;
+  justify-content: space-between;
+}
+
+.div10 {
+  background-color: white;
+  width: 20vw;
+  height: 19vh;
+  z-index: 100;
+  position: relative;
+  top: 1vh;
+  border: 0.001px solid bisque;
+  display: flex;
+  justify-content: flex-end;
+  align-items: flex-end;
+}
+.top {
+  align-self: flex-end;
+}
+.div12 {
+  background-color: white;
+  width: 20vw;
+  height: 19vh;
+  z-index: 100;
+  position: relative;
+  top: 1vh;
+  border: 0.001px solid bisque;
+  display: flex;
+  align-self: flex-start;
+}
+.big7 {
+  display: flex;
+  background-color: teal;
+  width: 4vw;
+  height: 4vw;
+  align-items: flex-end;
+  flex-direction: row-reverse;
+}
+.big8 {
+  display: flex;
+  background-color: teal;
+  width: 4vw;
+  height: 4vw;
+  /* align-items: flex-end; */
+  flex-direction: row-reverse;
+}
+.hugebig {
+  display: flex;
+  position: relative;
+  width: 4vw;
+  height: 8vw;
+  background-color: yellow;
+  /* justify-content: space-between; */
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.div10 {
+  background-color: white;
+  width: 20vw;
+  height: 19vh;
+  z-index: 100;
+  position: relative;
+  top: 1vh;
+  border: 0.001px solid bisque;
+  display: flex;
+  justify-content: flex-start;
+  align-items: flex-start;
